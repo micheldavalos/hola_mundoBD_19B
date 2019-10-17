@@ -11,4 +11,8 @@ export class HomePage {
 
   }
 
+  click() {
+    console.log('Click');
+  }
+
 }
